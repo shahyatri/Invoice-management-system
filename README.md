@@ -1,4 +1,4 @@
-# Invoice-management-system
+# Invoice-management-systems
 Welcome to the Invoice Management System (IMS) Version 1! This is a menu-driven program designed to streamline the process of managing invoices. Developed using Python, the system leverages various Python libraries to provide a robust solution for your invoicing needs.
 
 Features
